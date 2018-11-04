@@ -29,13 +29,6 @@ function draw() {
 
     ellipse(width / 2, height / 2, ellipsespec)
 
-    for (var i = 0; i < spectrum.length; i++) {
-        var freq = spectrum[i];
-        var y = map(freq, 0, 512, 0, 50)
-
-        stroke(255)
-    }
-
     // PAUSE / PLAY ON CANVAS PRESS
     cnv.mouseClicked(function () {
         if (song.isPlaying()) {
