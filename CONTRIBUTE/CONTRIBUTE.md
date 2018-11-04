@@ -1,3 +1,4 @@
+## USE THE TEMPLATE !!
 # Contributing
 
 # Adding New Visualizers
@@ -17,8 +18,21 @@
             -   main.css
     -   index.html
 
+### eg: 
+
+-   /
+    -   visualizers/
+        -   [`roundcrcl`]
+            -   index.html
+            -   main.js (Where your p5 code will go)
+            -   main.css
+    -   index.html
+
 # Naming your visualizers
 -   You can name your visualizer anything you want, e/g: roundcircleviz or anything
+
+# Song
+-   it can be any song you want (preferably in english because that is the target audience and also it is best if it has no `bad words` in the song :] )
 
 # Checklist for contribution
 - [ ] Followed the folder structured (Stated Above)
