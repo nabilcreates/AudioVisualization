@@ -37,6 +37,6 @@
 # Checklist for contribution
 - [ ] Followed the folder structured (Stated Above)
 - [ ] Added link to index.html (on the `/index.html` not the `visualizer/visualizer name-or-number/index.html`)
-    -   `<a href='path/to/visualizer's/index.html'>visualizer name-or-number>`
+    -   `<a href='path/to/visualizer's/index.html'>visualizer name-or-number </a>`
 - [ ] State nature of visualizer (in pull request)
     -   e.g: its a round circle with visualizer going around it.
